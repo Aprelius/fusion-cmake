@@ -1,0 +1,5 @@
+if(DEFINED FUSION_CMAKE_COMMON_FUNCTIONS)
+    return()
+else()
+    set(FUSION_CMAKE_COMMON_FUNCTIONS 1)
+endif()
